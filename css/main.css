@@ -5,12 +5,12 @@
 }
 div.box{
     width:550px;
-    background-color: lightskyblue;
+    background-color: hotpink;
     font-family: sans-serif;
     padding: 25px;
     margin: 100px auto;
     border-radius: 25px;
-    color: brown;
+    color: white;
     text-align: justify;
     box-shadow: 5px 5px 5px black;
 }
