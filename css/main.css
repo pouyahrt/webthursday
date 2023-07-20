@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div.box{
+    width:550px;
+    background-color: lightskyblue;
+    font-family: sans-serif;
+    padding: 25px;
+    margin: 100px auto;
+    border-radius: 25px;
+    color: brown;
+    text-align: justify;
+    box-shadow: 5px 5px 5px black;
+}
